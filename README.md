@@ -46,6 +46,7 @@ Please take a quick look at the [contribution guidelines](./CONTRIBUTING.md) fir
 * [pydy](https://github.com/pydy/pydy) - Multibody dynamics tool kit
 * [pymunk](https://github.com/viblo/pymunk) - A easy-to-use pythonic 2d physics library
 * [simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton
+* [rintintin](https://github.com/SpehleonLP/rintintin) - zero-dependency C library for computing colliders, mass properties, and inertia tensors of every bone of a skinned mesh individually.
 
 ### Fluid Mechanics
 
